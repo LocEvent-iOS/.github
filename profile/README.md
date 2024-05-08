@@ -1,7 +1,7 @@
 <h1 align="center">LocEvent</h1>
 
 <p align="center">
-  <img src="logoBlack.png" alt="LocEvent logo" height="480" />
+  <img src="/profile/logoBlack.png" alt="LocEvent logo" height="480" />
 </p>
 
 ## Introduction and Background
